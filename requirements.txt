@@ -1,0 +1,6 @@
+math
+selenium
+requests
+beautifulsoup4
+pandas
+validators
